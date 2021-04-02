@@ -23,7 +23,6 @@ import string
 import traceback
 import random
 import asyncio
-import aiofiles
 import aiohttp
 from hachoir.metadata import extractMetadata
 from hachoir.parser import createParser
