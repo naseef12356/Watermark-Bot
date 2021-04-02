@@ -19,7 +19,7 @@ import json
 import string
 import traceback
 import random
-import as
+import asyncio
 from PIL import Image
 from datetime import datetime
 from random import choice
