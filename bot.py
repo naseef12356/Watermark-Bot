@@ -3,8 +3,7 @@
 # This is Telegram Video Watermark Adder Bot's Source Code.
 # I Hardly Made This. So Don't Forget to Give Me Credits.
 # Done this Huge Task for Free. If you guys not support me,
-# I will stop making such things!
-
+# I will stop making such things
 # Edit anything at your own risk!
 
 # Don't forget to help me if I done any mistake in the codes.
@@ -20,8 +19,7 @@ import json
 import string
 import traceback
 import random
-import asyncio
-from hachoir.parser import createParser
+import as
 from PIL import Image
 from datetime import datetime
 from random import choice
